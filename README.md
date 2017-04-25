@@ -24,6 +24,7 @@ util.init();
 | option        | description | use |
 |:-------------:|:-------------:|:-------------|
 | title | String |thead 里面的内容 |
+
  [demo]()
 
 ## 验证插件
