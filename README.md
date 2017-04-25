@@ -9,7 +9,9 @@
 
  插件地址：[bootstrap-datetimepicker](https://eonasdan.github.io/bootstrap-datetimepicker/)
 
-使用方法，在需要初始化的元素上加上`class` `datetimepicker`
+使用方法，在需要初始化的元素上加上`class` `datetimepicker`：
+
+html部分代码：
 ```html
 <div class='input-group date datetimepicker'>
     <input type='text' class="form-control" />
@@ -18,13 +20,15 @@
     </span>
 </div>
 ```
+js部分代码：
 ```js
 util.init();
 ```
 ### 设置时间区间，后面不能超过见面，前面不能小于后面
 
-在父级元素上加上class datetimepicker_moudle，开始的元素上加上`data-datetimepicker="start"`，结束的元素上加上`data-datetimepicker="end"`
+在父级元素上加上class datetimepicker_moudle，开始的元素上加上`data-datetimepicker="start"`，结束的元素上加上`data-datetimepicker="end"`：
 
+html部分代码：
 ```html
 <div class="container datetimepicker_moudle">
     <div class='col-md-5'>
@@ -50,6 +54,7 @@ util.init();
 </div>
 
 ```
+js部分代码：
 ```js
 util.init();
 ```
