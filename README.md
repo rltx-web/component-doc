@@ -1,9 +1,9 @@
 # component-doc
 现有组件列表，项目依赖：
 
--[bootstrap](http://www.bootcss.com/)
+- [bootstrap](http://www.bootcss.com/)
 
--[jquery-1.9.1](http://jquery.com/)
+- [jquery-1.9.1](http://jquery.com/)
 
 ## 时间选择插件
 
