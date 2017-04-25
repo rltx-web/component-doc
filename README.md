@@ -59,7 +59,6 @@ js部分代码：
 util.init();
 ```
 
-
 ## 验证插件
 
 ## datatable插件
@@ -71,4 +70,8 @@ util.init();
 ## 省市区选择插件
 
 ## linkTab插件
+
+## select2
+
+## webupload
 
